@@ -1,0 +1,176 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/8DQaRHliqtb3cqtK6u0UvPlo9YY\"",
+ "regionCode": "BR",
+ "pageInfo": {
+  "totalResults": 14,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/rrkazoxt5-gASUozXguZmC77P5I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wXHmQ39WT6U"
+   },
+   "snippet": {
+    "publishedAt": "2016-07-11T14:46:27.000Z",
+    "channelId": "UCybh154413zvyXDt5yzH5QA",
+    "title": "Música Oficial do Campori Corajosos (Lyrics)",
+    "description": "Música do Campori de de Desbravadores da Associação Cearense.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wXHmQ39WT6U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wXHmQ39WT6U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wXHmQ39WT6U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Fabiano Capeletti",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/n6F3yAOAyyLSwmEmuQMuRcDem3I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9xadA4SSEQE"
+   },
+   "snippet": {
+    "publishedAt": "2016-06-06T13:38:19.000Z",
+    "channelId": "UCybh154413zvyXDt5yzH5QA",
+    "title": "Confirmado!!! Ministério F4CES no Campori Corajosos",
+    "description": "Conheça mais sobre esses jovens animados e --- Desbravadores!!! que estarão conosco no 1º Campori de Desbravadores da ACe.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9xadA4SSEQE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9xadA4SSEQE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9xadA4SSEQE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Fabiano Capeletti",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/bz15U3E9n1-B7PnWLHn5XwHLX4Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_w9AUhCasm0"
+   },
+   "snippet": {
+    "publishedAt": "2016-06-01T03:56:47.000Z",
+    "channelId": "UCybh154413zvyXDt5yzH5QA",
+    "title": "Convite Demétrio Campori de Desbravadores Associação Cearense",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_w9AUhCasm0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_w9AUhCasm0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_w9AUhCasm0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Fabiano Capeletti",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/GbpDHwBrLyrFPoHZTnWoGThygtA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZQL19paumgM"
+   },
+   "snippet": {
+    "publishedAt": "2016-06-01T03:51:44.000Z",
+    "channelId": "UCybh154413zvyXDt5yzH5QA",
+    "title": "Convite Pr. Udolcy - Campori Corajosos",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZQL19paumgM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZQL19paumgM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZQL19paumgM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Fabiano Capeletti",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/zzBTkE1ChJ63ZCGEzMnXjpNbuEI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tr4nAOuFoqs"
+   },
+   "snippet": {
+    "publishedAt": "2016-03-14T00:23:52.000Z",
+    "channelId": "UCybh154413zvyXDt5yzH5QA",
+    "title": "I Campori de Desbravadores da Associação Cearense",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tr4nAOuFoqs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tr4nAOuFoqs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tr4nAOuFoqs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Fabiano Capeletti",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
