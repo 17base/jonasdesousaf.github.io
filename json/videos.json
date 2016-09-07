@@ -1,4 +1,4 @@
-{
+﻿{
  "kind": "youtube#searchListResponse",
  "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/8DQaRHliqtb3cqtK6u0UvPlo9YY\"",
  "regionCode": "BR",
@@ -17,8 +17,8 @@
    "snippet": {
     "publishedAt": "2016-07-11T14:46:27.000Z",
     "channelId": "UCybh154413zvyXDt5yzH5QA",
-    "title": "Música Oficial do Campori Corajosos (Lyrics)",
-    "description": "Música do Campori de de Desbravadores da Associação Cearense.",
+    "title": "Musica Oficial do Campori Corajosos (Lyrics)",
+    "description": "Musica do Campori de de Desbravadores da Associação Cearense.",
     "thumbnails": {
      "default": {
       "url": "https://i.ytimg.com/vi/wXHmQ39WT6U/default.jpg",
