@@ -34,65 +34,65 @@
     "horario": "08:50 hs",
     "local": "Igreja Local",
     "descricao":"Tema: Em busca de Esperança",
-    "info": ""},
+    "info": ""}
     ]
    },
    { "mes": "fevereiro",
    "eventos": [
    {"periodo": "27 de Fevereiro a 01 de Março",
     "dia": 27,
-    "descricao": "Inicio do Retiro Espiritual",
+    "titulo": "Inicio do Retiro Espiritual",
     "horario": "",
     "local": "",
     "descricao":"Tema: Rumo ao Porto Seguro",
     "info": "" }
     ]
-   }
+   },
    { "mes": "marco",
    "eventos": [
    
     ]
-   }
+   },
    { "mes": "abril",
    "eventos": [
    
     ]
-   }
+   },
    { "mes": "maio",
    "eventos": [
    
     ]
-   }
+   },
    { "mes": "junho",
    "eventos": [
    
     ]
-   }
+   },
    { "mes": "julho",
    "eventos": [
    
     ]
-   }
+   },
    { "mes": "agosto",
    "eventos": [
    
     ]
-   }
+   },
    { "mes": "setembro",
    "eventos": [
    
     ]
-   }
+   },
    { "mes": "outubro",
    "eventos": [
    
     ]
-   }
+   },
    { "mes": "novembro",
    "eventos": [
    
     ]
-   }
+   },
    { "mes": "dezembro",
    "eventos": [
    
