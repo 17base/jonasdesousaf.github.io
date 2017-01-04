@@ -2,7 +2,8 @@
  "versao_bd": 0,
  "ano": 2017,
  "calendario": [
-  { "mes": "janeiro",
+  {"ref": 0, 
+   "mes": "janeiro",
    "eventos": [
    {"periodo": "04 a 07 de Janeiro",
     "dia": 4,
@@ -41,7 +42,8 @@
     "info": ""}
     ]
    },
-   { "mes": "fevereiro",
+   {"ref": 1, 
+   "mes": "fevereiro",
    "eventos": [
    {"periodo": "27 de Fevereiro a 01 de Março",
     "dia": 27,
@@ -53,52 +55,62 @@
     "info": "" }
     ]
    },
-   { "mes": "marco",
+   {"ref": 2, 
+    "mes": "marco",
    "eventos": [
    
     ]
    },
-   { "mes": "abril",
+   {"ref": 3, 
+    "mes": "abril",
    "eventos": [
    
     ]
    },
-   { "mes": "maio",
+   {"ref": 4, 
+    "mes": "maio",
    "eventos": [
    
     ]
    },
-   { "mes": "junho",
+   {"ref": 5, 
+    "mes": "junho",
    "eventos": [
    
     ]
    },
-   { "mes": "julho",
+   {"ref": 6, 
+    "mes": "julho",
    "eventos": [
    
     ]
    },
-   { "mes": "agosto",
+   { "ref": 7,
+    "mes": "agosto",
    "eventos": [
    
     ]
    },
-   { "mes": "setembro",
+   {"ref": 8, 
+    "mes": "setembro",
    "eventos": [
    
     ]
    },
-   { "mes": "outubro",
+   {"ref": 9,
+    "mes": "outubro",
    "eventos": [
    
     ]
    },
-   { "mes": "novembro",
+   {"ref": 10, 
+    "mes": "novembro",
    "eventos": [
    
     ]
    },
-   { "mes": "dezembro",
+   {"ref": 11, 
+    "mes": "dezembro",
    "eventos": [
    
     ]
