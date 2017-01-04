@@ -6,6 +6,7 @@
    "eventos": [
    {"periodo": "04 a 07 de Janeiro",
     "dia": 4,
+    "dia_sem": "QUA",
     "titulo": "Início da Mini Semana de Oração",
     "horario": "19:15 hs",
     "local": "Igreja Local",
@@ -14,6 +15,7 @@
     
     {"periodo": "04 a 07 de Janeiro",
     "dia": 5,
+    "dia_sem": "QUI",
     "titulo": "Mini Semana de Oração",
     "horario": "19:15 hs",
     "local": "Igreja Local",
@@ -22,6 +24,7 @@
     
     {"periodo": "04 a 07 de Janeiro",
     "dia": 6,
+    "dia_sem": "SEX",
     "titulo": "Mini Semana de Oração",
     "horario": "19:15 hs",
     "local": "Igreja Local",
@@ -30,6 +33,7 @@
     
     {"periodo": "04 a 07 de Janeiro",
     "dia": 7,
+    "dia_sem": "SAB",
     "titulo": "Encerramento da Mini Semana de Oração",
     "horario": "08:50 hs",
     "local": "Igreja Local",
@@ -41,6 +45,7 @@
    "eventos": [
    {"periodo": "27 de Fevereiro a 01 de Março",
     "dia": 27,
+    "dia_sem": "SEX",
     "titulo": "Inicio do Retiro Espiritual",
     "horario": "",
     "local": "",
