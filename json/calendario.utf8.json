@@ -1,0 +1,119 @@
+{
+ "versao_bd": 0,
+ "ano": 2017,
+ "calendario": [
+  {"ref": 0, 
+   "mes": "janeiro",
+   "eventos": [
+   {"periodo": "04 a 07 de Janeiro",
+    "dia": 4,
+    "dia_sem": "QUA",
+    "titulo": "Início da Mini Semana de Oração",
+    "horario": "19:15 hs",
+    "local": "Igreja Local",
+    "descricao":"Tema: Em busca de Esperança",
+    "info": "" },
+    
+    {"periodo": "04 a 07 de Janeiro",
+    "dia": 5,
+    "dia_sem": "QUI",
+    "titulo": "Mini Semana de Oração",
+    "horario": "19:15 hs",
+    "local": "Igreja Local",
+    "descricao":"Tema: Em busca de Esperança",
+    "info": "" },
+    
+    {"periodo": "04 a 07 de Janeiro",
+    "dia": 6,
+    "dia_sem": "SEX",
+    "titulo": "Mini Semana de Oração",
+    "horario": "19:15 hs",
+    "local": "Igreja Local",
+    "descricao":"Tema: Em busca de Esperança",
+    "info": "" },
+    
+    {"periodo": "04 a 07 de Janeiro",
+    "dia": 7,
+    "dia_sem": "SAB",
+    "titulo": "Encerramento da Mini Semana de Oração",
+    "horario": "08:50 hs",
+    "local": "Igreja Local",
+    "descricao":"Tema: Em busca de Esperança",
+    "info": ""}
+    ]
+   },
+   {"ref": 1, 
+   "mes": "fevereiro",
+   "eventos": [
+   {"periodo": "27 de Fevereiro a 01 de Março",
+    "dia": 27,
+    "dia_sem": "SEX",
+    "titulo": "Inicio do Retiro Espiritual",
+    "horario": "",
+    "local": "",
+    "descricao":"Tema: Rumo ao Porto Seguro",
+    "info": "" }
+    ]
+   },
+   {"ref": 2, 
+    "mes": "marco",
+   "eventos": [
+   
+    ]
+   },
+   {"ref": 3, 
+    "mes": "abril",
+   "eventos": [
+   
+    ]
+   },
+   {"ref": 4, 
+    "mes": "maio",
+   "eventos": [
+   
+    ]
+   },
+   {"ref": 5, 
+    "mes": "junho",
+   "eventos": [
+   
+    ]
+   },
+   {"ref": 6, 
+    "mes": "julho",
+   "eventos": [
+   
+    ]
+   },
+   { "ref": 7,
+    "mes": "agosto",
+   "eventos": [
+   
+    ]
+   },
+   {"ref": 8, 
+    "mes": "setembro",
+   "eventos": [
+   
+    ]
+   },
+   {"ref": 9,
+    "mes": "outubro",
+   "eventos": [
+   
+    ]
+   },
+   {"ref": 10, 
+    "mes": "novembro",
+   "eventos": [
+   
+    ]
+   },
+   {"ref": 11, 
+    "mes": "dezembro",
+   "eventos": [
+   
+    ]
+   }
+   ]
+}
