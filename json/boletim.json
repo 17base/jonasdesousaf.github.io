@@ -1,0 +1,49 @@
+{
+  "versao_bd": 1,
+  "anuncios":
+  [
+    {
+      "titulo": "Semana de Oração de Fidelidade 2017",
+      "data": "04/03/2017 a 11/03/2017",
+      "descricao": "De 04 a 11 de Março será realizada a Semana de Oração de Fidelidade 2017. Neste ano façamos a melhor escolha todos os dias.",
+      "local": "IASD Messejana",
+      "informacoes": "Renato Freitas: 999999999"
+    },
+    {
+      "titulo": "Retiro Espiritual 2017",
+      "data": "24/02/2017 a 01/03/2017",
+      "descricao": "Faltam poucos dias para o Retiro Espiritual 2017. Faça sua inscrição, parcelamos em até 4 vezes no cartão.",
+      "local": "Sitio Recanto Verde",
+      "informacoes": "Leandro Vargas: 999999999 / Josy Assuncao: 999999999"
+    },
+    {
+      "titulo": "Ação Solidária Adventista",
+      "data": null,
+      "descricao": "Ajude as familias necessitadas doando o quilo do amor.",
+      "local": "IASD Messejana",
+      "informacoes": "Eroney Santos: 999999999"
+    },
+    {
+      "titulo": "Curso de Sonoplastia para Igrejas",
+      "data": "05/03/2017",
+      "descricao": "Ministrado pelo Pr Lucas Gondim. Serão 8 horas de curso com um investimento de R$ 20,00 que dará direito a almoço, apostila e certificado.",
+      "local": "IASD Messejana",
+      "informacoes": "Italo Lima: 999999999 / Lucas Gondim: 999999999"
+    },
+    {
+      "titulo": "Encontro de Mulheres Adventistas do Ceará",
+      "data": "05/10/2017",
+      "descricao": "Ministrado pelo Pr Lucas Gondim. Serão 8 horas de curso com um investimento de R$ 20,00 que dará direito a almoço, apostila e certificado.",
+      "local": "IASD Messejana",
+      "informacoes": "Italo Lima: 999999999 / Lucas Gondim: 999999999"
+    }
+  ],
+  "aniversarios":
+  [
+    {
+      "nome": "Joelma Vargas",
+      "data": "12/02/2017"
+    }
+  ],
+  "desbravadores": null
+}
